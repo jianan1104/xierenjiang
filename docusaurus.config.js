@@ -105,7 +105,7 @@ const config = {
               },
               {
                 label: 'Portfolio',
-                to: '/portfolio',
+                to: '/docs/category/media-reports',
               },
             ],
           },
